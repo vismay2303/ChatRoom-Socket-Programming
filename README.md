@@ -25,7 +25,7 @@ To get started with our Multi-User Chatroom, follow these steps:
    ```bash
    python server.py
 
-3. **Start the Client with the Server IP in a seperate config file or paste server IP in client.py:**
+3. **Start the Client with the Server IP in a seperate config file or paste Server IP in client.py:**
    ```bash
    python client.py
 
@@ -33,7 +33,7 @@ To get started with our Multi-User Chatroom, follow these steps:
 
    Once connected, start sending messages and enjoy real-time communication with other users in the chatroom!
 
-6. **Used Message = !DISCONNECT to Disconnect from Server**
+6. **Use Message = !DISCONNECT to Disconnect from Server**
 
 ## Dependencies
 
