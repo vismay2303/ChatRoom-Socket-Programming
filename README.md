@@ -30,9 +30,10 @@ To get started with our Multi-User Chatroom, follow these steps:
    python client.py
 
 4. **Add Multiple Clients and Start Chatting**
+
    Once connected, start sending messages and enjoy real-time communication with other users in the chatroom!
 
-5. **Used Message = !DISCONNECT to Disconnect from Server**
+6. **Used Message = !DISCONNECT to Disconnect from Server**
 
 ## Dependencies
 
